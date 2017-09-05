@@ -1,6 +1,6 @@
 {
   "name": "gscan",
-  "version": "1.1.8-hola.0",
+  "version": "1.1.8-hola.1",
   "description": "Scans Ghost themes looking for errors, deprecations, features and compatibility",
   "keywords": [
     "ghost",
@@ -37,7 +37,7 @@
     "express": "4.14.0",
     "express-hbs": "1.0.3",
     "extract-zip-fork": "1.5.1",
-    "fs-extra": "0.26.2",
+    "fs-extra": "4.0.1",
     "ghost-ignition": "^2.8.7",
     "glob": "7.0.5",
     "lodash": "4.17.4",
